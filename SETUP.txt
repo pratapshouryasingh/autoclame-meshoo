@@ -1,0 +1,3 @@
+pip install -r requirements.txt
+run this command in vs code in AutomatedClam folder
+then ready to use.
